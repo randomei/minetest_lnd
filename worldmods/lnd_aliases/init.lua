@@ -1,0 +1,10 @@
+minetest.register_alias("dynamic_liquid:clay", "default:clay")
+minetest.register_alias("multidecor:brass_ingot", "basic_materials:brass_ingot")
+minetest.register_alias("multidecor:plastic_sheet", "basic_materials:plastic_sheet")
+minetest.register_alias("mobs:leather", "mesecraft_mobs:leather")
+minetest.register_alias("mesecraft_baked_clay:delphinium", "bakedclay:delphinium")
+minetest.register_alias("mesecraft_baked_clay:thistle", "bakedclay:thistle")
+minetest.register_alias("mesecraft_baked_clay:lazarus", "bakedclay:lazarus")
+minetest.register_alias("mesecraft_baked_clay:mannagrass", "bakedclay:mannagrass")
+
+minetest.log("info", "LnD aliases loaded successfully!")
