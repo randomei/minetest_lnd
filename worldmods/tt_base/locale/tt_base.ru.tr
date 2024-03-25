@@ -1,0 +1,27 @@
+# textdomain: tt_base
+Damage: @1=Урон: @1
+Damage (@1): @2=Урон (@1): @2
+Healing: @1=Лечение: @1
+Healing (@1): @2=Лечение (@1): @2
+Full punch interval: @1s=Полн. интерв. уд.: @1с
+Food item=Еда
++@1 satiation=+@1 насыщение
+@1 satiation=@1 насыщение
++@1 food points=+@1 оч. еды
+Contact damage: @1 per second=Конт. урон: @1 в сек
+Contact healing: @1 per second=Конт. лечение: @1 в сек
+Drowning damage: @1=Повр. в жидк.: @1
+Bouncy (@1%)=Отскок (@1%)
+Luminance: @1=Свечение: @1
+Slippery=Скользкий
+Climbable=Взбираемый
+Climbable (only downwards)=Взбираемый (только вниз)
+No jumping=Нельзя прыгать
+No swimming upwards=Нельзя плыть вверх
+No rising=Нельзя подниматься
+Fall damage: @1%=Урон от падения: @1%
+Fall damage: +@1%=Урон от падения: +@1%
+No fall damage=Нет урона от падения
+Digs @1 blocks=Копает @1 блоки
+Digs @1 blocks instantly=Копает @1 блоков мгновенно
+Minimum dig time: @1s=Время копания: @1с
