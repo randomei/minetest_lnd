@@ -40,3 +40,6 @@
 [submodule "worldmods/techage_modpack"]
 	path = worldmods/techage_modpack
 	url = https://github.com/randomei/techage_modpack.git
+[submodule "games/MeseCraft"]
+	path = games/MeseCraft
+	url = https://github.com/randomei/MeseCraft.git
