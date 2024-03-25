@@ -1,0 +1,42 @@
+[submodule "worldmods/digtron"]
+	path = worldmods/digtron
+	url = https://github.com/randomei/digtron.git
+[submodule "worldmods/OreTracker"]
+	path = worldmods/OreTracker
+	url = https://github.com/randomei/OreTracker.git
+[submodule "worldmods/dreambuilder_hotbar"]
+	path = worldmods/dreambuilder_hotbar
+	url = https://github.com/randomei/dreambuilder_hotbar.git
+[submodule "worldmods/hbsprint"]
+	path = worldmods/hbsprint
+	url = https://github.com/randomei/hbsprint.git
+[submodule "worldmods/i3"]
+	path = worldmods/i3
+	url = https://github.com/randomei/i3.git
+[submodule "worldmods/microexpansion"]
+	path = worldmods/microexpansion
+	url = https://github.com/randomei/microexpansion.git
+[submodule "worldmods/minetest-subways"]
+	path = worldmods/minetest-subways
+	url = https://github.com/randomei/minetest-subways.git
+[submodule "worldmods/minetest_offhand"]
+	path = worldmods/minetest_offhand
+	url = https://github.com/randomei/minetest_offhand.git
+[submodule "worldmods/modlib"]
+	path = worldmods/modlib
+	url = https://github.com/randomei/modlib.git
+[submodule "worldmods/multidecor"]
+	path = worldmods/multidecor
+	url = https://github.com/randomei/multidecor.git
+[submodule "worldmods/ore_info"]
+	path = worldmods/ore_info
+	url = https://github.com/randomei/ore_info.git
+[submodule "worldmods/rangedweapons"]
+	path = worldmods/rangedweapons
+	url = https://github.com/randomei/rangedweapons.git
+[submodule "worldmods/skinsdb"]
+	path = worldmods/skinsdb
+	url = https://github.com/randomei/skinsdb.git
+[submodule "worldmods/techage_modpack"]
+	path = worldmods/techage_modpack
+	url = https://github.com/randomei/techage_modpack.git
