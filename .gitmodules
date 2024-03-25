@@ -43,3 +43,6 @@
 [submodule "games/MeseCraft"]
 	path = games/MeseCraft
 	url = https://github.com/randomei/MeseCraft.git
+[submodule "worldmods/3d_armor"]
+	path = worldmods/3d_armor
+	url = https://github.com/randomei/3d_armor.git
