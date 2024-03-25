@@ -46,3 +46,6 @@
 [submodule "worldmods/3d_armor"]
 	path = worldmods/3d_armor
 	url = https://github.com/randomei/3d_armor.git
+[submodule "worldmods/minetest-toolranks"]
+	path = worldmods/minetest-toolranks
+	url = https://github.com/randomei/minetest-toolranks.git
