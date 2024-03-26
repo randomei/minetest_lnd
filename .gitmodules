@@ -55,3 +55,6 @@
 [submodule "tmw_slimes"]
 	path = tmw_slimes
 	url = https://github.com/randomei/tmw_slimes.git
+[submodule "worldmods/tmw_slimes"]
+	path = worldmods/tmw_slimes
+	url = https://github.com/randomei/tmw_slimes.git
