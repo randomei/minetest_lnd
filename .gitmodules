@@ -52,3 +52,6 @@
 [submodule "worldmods/livingslimes"]
 	path = worldmods/livingslimes
 	url = https://github.com/randomei/livingslimes.git
+[submodule "tmw_slimes"]
+	path = tmw_slimes
+	url = https://github.com/randomei/tmw_slimes.git
