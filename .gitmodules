@@ -49,3 +49,6 @@
 [submodule "worldmods/minetest-toolranks"]
 	path = worldmods/minetest-toolranks
 	url = https://github.com/randomei/minetest-toolranks.git
+[submodule "worldmods/livingslimes"]
+	path = worldmods/livingslimes
+	url = https://github.com/randomei/livingslimes.git
